@@ -1,1 +1,1 @@
-# MagiCapture.github.io
+# MagiCapture
